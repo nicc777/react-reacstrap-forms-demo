@@ -2,6 +2,8 @@
 
 Another short demo projects to highlight Form processing in [reactstrap](https://reactstrap.github.io/).
 
+Inspiration for this experiment came from [this stackoverflow discussion](https://stackoverflow.com/questions/53746769/reactstrap-handle-input-implicit-submit)
+
 # Quick start
 
 Pick a directory, clone the repo, install dependencies and start the dev server:
