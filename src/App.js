@@ -8,7 +8,7 @@ const AlertPrivacyPolicyAcceptance = (props) => {
   return (
     <React.Fragment>
       <Alert color="danger">
-        You must accept the terms and conditions before the search terms will be processed.
+        You must accept the privacy policy before the search terms will be processed.
       </Alert>
     </React.Fragment>
   );
