@@ -19,3 +19,13 @@ Most of the action happens in `App.js`.
 # Notes
 
 You will notice you can also hit the ENTER key to attempt to submit the search query. However, when you do this without accepting the privacy policy, an alert message will be shown.
+
+# Screenshots
+
+#### Typical usage
+
+![screenshot 01](screenshot-01.png)
+
+#### Hitting ENTER when privacy policy is not accepted
+
+![screenshot 01](screenshot-02.png)
